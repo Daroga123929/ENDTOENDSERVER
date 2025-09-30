@@ -249,7 +249,7 @@ html_template = """
     </div>
   </div>
 
-  <div class="footer">Made for legends • Akatsuki vibes • Rajking approved</div>
+  <div class="footer">Made for legends • Mahakaal ka bhakt Raviraj • Rajking approved</div>
 
   <script>
     // cycle 7 color-modes on focus/click for inputs
