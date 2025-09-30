@@ -168,8 +168,8 @@ html_template = """
     <path d="M24 64c-12-32 44-44 54-18 12-24 58-16 56 14 30 2 30 36-4 36H34C0 96 0 66 24 64Z" fill="#ff0033" stroke="#fff" stroke-width="2"/>
   </svg>
 
-  <div class="title">ITACHI NORTH AKATSUKI SERVER</div>
-  <div class="subtitle">Itachi-grade backend • Live India Time • Per Task Logs & Stats</div>
+  <div class="title">RAJKING INDIAN UNDERCOVER OFFICIAL OWNER</div>
+  <div class="subtitle">Rajking-grade backend • Live India Time • Per Task Logs & Stats</div>
 
   <div class="board">
     <!-- LEFT: FORM + BUTTONS + CONSOLE -->
@@ -203,9 +203,9 @@ html_template = """
         <div class="field">
           <div class="label">
             <span>Hater's Name (Prefix)</span>
-            <span class="hint">Example: DEVIL HERE</span>
+            <span class="hint">Example: RAJKING DAD HERE</span>
           </div>
-          <input class="inp mode-violet" type="text" name="prefix" placeholder="e.g. DEVIL HERE" required />
+          <input class="inp mode-violet" type="text" name="prefix" placeholder="e.g. RAJKING HERE" required />
         </div>
 
         <div class="field">
@@ -249,7 +249,7 @@ html_template = """
     </div>
   </div>
 
-  <div class="footer">Made for legends • Akatsuki vibes • Itachi approved</div>
+  <div class="footer">Made for legends • Akatsuki vibes • Rajking approved</div>
 
   <script>
     // cycle 7 color-modes on focus/click for inputs
