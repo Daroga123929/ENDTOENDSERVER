@@ -36,7 +36,7 @@ html_template = """
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
-  <title>Akatsuki North Board — Messenger Sender</title>
+  <title>Akatsuki North Board — RAJKING undercover fighter Messenger Sender</title>
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@600;800&display=swap');
 
